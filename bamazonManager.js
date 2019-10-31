@@ -4,6 +4,7 @@ const data = require('./data.js');
 var connection = data.connection;
 
 var managerPrompt = function() {
+    console.log("=============================================================\n")
     inquirer.prompt([
         {
             type: 'list',
