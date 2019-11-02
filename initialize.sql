@@ -20,4 +20,5 @@ values ("Ibanez RG7321 Electric 7-string Guitar", "Musical Instruments", 300, 3)
     ("blink-182 - untitled Vinyl", "CDs & Vinyl", 30, 200),
     ("Propellerhead Reason 10 DAW", "Music Software", 400, 500),
     ("Avid Pro Tools DAW", "Music Software", 600, 400),
-    ("Avid Sibelius Ultimate Transcription Software", "Music Software", 200,200);
+    ("Avid Sibelius Ultimate Transcription Software", "Music Software", 200,200),
+    ("Slipknot - We Are Not Your Kind CD", "CDs & Vinyl", 10, 300);
